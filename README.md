@@ -14,43 +14,43 @@ The parameters include “Lead content in ppb” parameter representing the lead
 The objective of the study is to accurately predict if the new house within Flint region would have lead content above 15 ppb. Thus, suggesting the government officials to check the service lines of those houses on priority. Thus, the Lead content parameter is value-labeled as “Yes” if the Lead content is more than 15 ppb and “No” if it is less than or equal to 15 ppb.
 
 Complete list of parameters for the Flint Water Crisis Data:\
-● sample_id - unique identifier for each water test
-● Lead_(ppb) - lead concentration in water (parts per billion)
-● parcel_id - unique identifier for each property/home
-● Date_Submitted - date and time of test submission
-● google_add - address of the parcel
-● Latitude - latitude of the parcel
-● Longitude - longitude of the parcel
-● Owner_Type - parcel usage type
-● Land_Value - parcel value
-● Land_Improvements_Value - value of improvements on the parcel
-● Residential_Building_Value - value of parcel (residential only)
-● Residential_Building_Style - category of residential parcel
-● Commercial_Building_Value - value of parcel (commercial only)
-● Building_Storeys - height of parcel in stories
-● Parcel_Acres - size of parcel's lot
-● Rental - whether or not the parcel is a rental
-● Use_Type - parcel usage type
-● Prop_Class - type of residential/commercial usage
-● Year_Built - year the parcel was built
-● USPS_Vacancy - whether or not the parcel is vacant
-● Zoning - zoning type of the lot
-● Future_Landuse - lot is planned for use in the future
-● DRAFT_Zone - future assigned zoning
-● Housing_Condition_2012 - condition of parcel during 2012 survey
-● Housing_Condition_2014 - condition of parcel during 2014 survey
-● Commercial_Condition_2013 - condition of commercial parcels
-● Hydrant_Type - type of nearest fire hydrant
-● Ward - division of the city
-● PRECINCT - voting precinct
-● CENTRACT - census area
-● CENBLOCK - census block
-● SL_Type - service line type
-● SL_Type2 - service line secondary type
-● SL_Lead - whether or not the service line contains lead
-● Homestead - Whether or not the parcel is a homestead
-● Homestead_Percent - Fraction of homestead
-● HomeSEV - State Equalized Value
+● sample_id - unique identifier for each water test\
+● Lead_(ppb) - lead concentration in water (parts per billion)\
+● parcel_id - unique identifier for each property/home\
+● Date_Submitted - date and time of test submission\
+● google_add - address of the parcel\
+● Latitude - latitude of the parcel\
+● Longitude - longitude of the parcel\
+● Owner_Type - parcel usage type\
+● Land_Value - parcel value\
+● Land_Improvements_Value - value of improvements on the parcel\
+● Residential_Building_Value - value of parcel (residential only)\
+● Residential_Building_Style - category of residential parcel\
+● Commercial_Building_Value - value of parcel (commercial only)\
+● Building_Storeys - height of parcel in stories\
+● Parcel_Acres - size of parcel's lot\
+● Rental - whether or not the parcel is a rental\
+● Use_Type - parcel usage type\
+● Prop_Class - type of residential/commercial usage\
+● Year_Built - year the parcel was built\
+● USPS_Vacancy - whether or not the parcel is vacant\
+● Zoning - zoning type of the lot\
+● Future_Landuse - lot is planned for use in the future\
+● DRAFT_Zone - future assigned zoning\
+● Housing_Condition_2012 - condition of parcel during 2012 survey\
+● Housing_Condition_2014 - condition of parcel during 2014 survey\
+● Commercial_Condition_2013 - condition of commercial parcels\
+● Hydrant_Type - type of nearest fire hydrant\
+● Ward - division of the city\
+● PRECINCT - voting precinct\
+● CENTRACT - census area\
+● CENBLOCK - census block\
+● SL_Type - service line type\
+● SL_Type2 - service line secondary type\
+● SL_Lead - whether or not the service line contains lead\
+● Homestead - Whether or not the parcel is a homestead\
+● Homestead_Percent - Fraction of homestead\
+● HomeSEV - State Equalized Value\
 
-Snapshot of the dataset:
+
 
