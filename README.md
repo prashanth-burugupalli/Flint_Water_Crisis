@@ -13,7 +13,7 @@ The parameters include “Lead content in ppb” parameter representing the lead
 
 The objective of the study is to accurately predict if the new house within Flint region would have lead content above 15 ppb. Thus, suggesting the government officials to check the service lines of those houses on priority. Thus, the Lead content parameter is value-labeled as “Yes” if the Lead content is more than 15 ppb and “No” if it is less than or equal to 15 ppb.
 
-Complete list of parameters for the Flint Water Crisis Data:
+Complete list of parameters for the Flint Water Crisis Data:\n
 ● sample_id - unique identifier for each water test
 ● Lead_(ppb) - lead concentration in water (parts per billion)
 ● parcel_id - unique identifier for each property/home
